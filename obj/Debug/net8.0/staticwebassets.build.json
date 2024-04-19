@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CPlKDRwJgLp9G4avX0yJHMMDhgTQXNHjh7Dq7TyfO14=",
+  "Source": "AdvisorMangementAPI",
+  "BasePath": "_content/AdvisorMangementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
